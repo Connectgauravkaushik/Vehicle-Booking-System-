@@ -8,10 +8,10 @@
 This is a full-stack vehicle booking application built with a **Node.js backend**, **React frontend**, and **MongoDB** database.
 
 ### see all Bookings
-![System Overview](src/images/image2.png)
+![System Overview](vehicle-booking-system/src/images/image2.png)
 
 ### search and book vehicle
-![System Overview](src/images/image3.png)
+![System Overview](vehicle-booking-system/src/images/image3.png)
 
 ### Objective
 
