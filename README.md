@@ -1,6 +1,6 @@
 # Vehicle Booking System
 
-![System Overview](src/images/image1.png)
+![System Overview](vehicle-booking-system/src/images/image1.png)
 ---
 
 ## Project Overview
